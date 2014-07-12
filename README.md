@@ -1,7 +1,7 @@
 prerequisite
 ============
 
-This is a simple project to enable workspace validation prior taking the course.
+####This is a simple project to enable workspace validation prior taking the course.
 
 Your workspace must include the following:
 - IDE
@@ -10,6 +10,7 @@ Your workspace must include the following:
 - Tomcat 7
 - Git
 
+<br/>
 All following steps **MUST** pass successfully:
 
 1. Import attached project into your IDE.

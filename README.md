@@ -1,7 +1,7 @@
 prerequisite
 ============
 
-This is a simple project to enable workspace validation prior to taking the course.
+This is a simple project to enable workspace validation prior taking the course.
 
 1. Import attached project into your IDE.
 2. Run: mvn clean install (can do it inside IDE)<br/>
